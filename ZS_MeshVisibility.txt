@@ -1,0 +1,11 @@
+// Add a new subpalette to the ZPlugin palette
+[ISubPalette,"ZPlugin:Custom UI"]
+
+// Add a button to the new subpalette for toggling visibility of specific hidden polygons
+[IButton,"ZPlugin:Custom UI:Toggle Visibility","Toggle visibility",
+
+[IConfig,2022]
+[CanvasStroke,(ZObjStrokeV03n21%p474F4C8p3032E48Pn51D8n4A73n-E6DBs155DB8Es155DB8Es155DB8Ez-1E5=YH4VK3XH5VH5V1H6V1H6V2H6V3H7V4H8V5H9V5H9V6HAV6HAV7HAV8HBV8HBV9HBVAHCVBHDVBHDVCHEVCHEVC)]
+ 
+
+]
